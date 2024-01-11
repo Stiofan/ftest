@@ -1,5 +1,6 @@
 {
-  "appBar": {
+    "args": {
+      "appBar": {
     "args": {
       "backgroundColor": "#2196F3",
       "title": {
@@ -36,4 +37,6 @@
       ]
     }
   }
-}
+    },
+    "type": "scaffold"
+  }
