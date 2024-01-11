@@ -1,0 +1,26 @@
+{
+    "args": {
+      "appBar": {
+        "args": {
+          "title": {
+            "args": {
+              "text": "Rendering UI Through JSON Data"
+            },
+            "type": "text"
+          }
+        },
+        "type": "app_bar"
+      },
+      "body": {
+        "child": {
+          "type": "network_image",
+          "args": {
+            "fit": "fitWidth",
+            "src": "https://i.pinimg.com/originals/c2/23/88/c22388a126bd2c5e479821bb61f663ea.jpg"
+          }
+        },
+        "type": "center"
+      }
+    },
+    "type": "scaffold"
+  }
