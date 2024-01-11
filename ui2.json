@@ -1,0 +1,39 @@
+{
+  "appBar": {
+    "args": {
+      "backgroundColor": "#2196F3",
+      "title": {
+        "args": {
+          "text": "Blue AppBar"
+        },
+        "type": "text"
+      }
+    },
+    "type": "app_bar"
+  },
+  "body": {
+    "type": "list_view",
+    "args": {
+      "children": [
+        {
+          "type": "text",
+          "args": {
+            "text": "Item 1"
+          }
+        },
+        {
+          "type": "text",
+          "args": {
+            "text": "Item 2"
+          }
+        },
+        {
+          "type": "text",
+          "args": {
+            "text": "Item 3"
+          }
+        }
+      ]
+    }
+  }
+}
